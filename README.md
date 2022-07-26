@@ -7,7 +7,7 @@
 ## :bulb: Ideia do Projeto
 
 ```bash
-Criar um Ecommerce de Pokémons para resolução de desafio no curso da Gama Academy.
+Criar um Ecommerce de Pokémon para resolução de desafio no curso da Gama Academy.
 
 -Desenvolvido com React JS
 -React-router-dom
